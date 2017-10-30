@@ -1,0 +1,9 @@
+Z:\Tomas\Testavimui\testavimuiOne\testavimuiOne\bin\Debug\testavimuiOne.exe.config
+Z:\Tomas\Testavimui\testavimuiOne\testavimuiOne\obj\Debug\testavimuiOne.exe
+Z:\Tomas\Testavimui\testavimuiOne\testavimuiOne\obj\Debug\testavimuiOne.pdb
+D:\IoT\Tomas\Testavimui\testavimuiOne\testavimuiOne\obj\Debug\testavimuiOne.csprojResolveAssemblyReference.cache
+D:\IoT\Tomas\Testavimui\testavimuiOne\testavimuiOne\bin\Debug\testavimuiOne.exe.config
+D:\IoT\Tomas\Testavimui\testavimuiOne\testavimuiOne\bin\Debug\testavimuiOne.exe
+D:\IoT\Tomas\Testavimui\testavimuiOne\testavimuiOne\bin\Debug\testavimuiOne.pdb
+D:\IoT\Tomas\Testavimui\testavimuiOne\testavimuiOne\obj\Debug\testavimuiOne.exe
+D:\IoT\Tomas\Testavimui\testavimuiOne\testavimuiOne\obj\Debug\testavimuiOne.pdb
